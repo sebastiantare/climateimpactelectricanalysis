@@ -4,6 +4,6 @@ This is a project I made to present a proposal of service to an electrical servi
 
 ## Data Sources
 
-**Coelcha**: [Calls](https://www.coelcha.cl/calidad_comercial.php)
+**Coelcha**: [Calls ☎️](https://www.coelcha.cl/calidad_comercial.php)
 
-**Meteochile**: [Rain and Wind](https://climatologia.meteochile.gob.cl/)
+**Meteochile**: [Rain 🌧️ and Wind 🍃](https://climatologia.meteochile.gob.cl/)
