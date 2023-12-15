@@ -7,3 +7,5 @@ This is a project I made to present a proposal of service to an electrical servi
 **Coelcha**: [Calls ☎️](https://www.coelcha.cl/calidad_comercial.php)
 
 **Meteochile**: [Rain 🌧️ and Wind 🍃](https://climatologia.meteochile.gob.cl/)
+
+![Plot](https://github.com/sebastiantare/climateimpactelectricanalysis/blob/main/llamadosvientolluvia.png?raw=true)
